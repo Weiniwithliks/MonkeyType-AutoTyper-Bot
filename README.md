@@ -1,5 +1,5 @@
 # 🐵 MonkeyType AutoTyper Bot
-
+readme是AI写的喵，有错误跟我说喵
 ![Version](https://img.shields.io/badge/version-2.2-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Script-orange.svg)
