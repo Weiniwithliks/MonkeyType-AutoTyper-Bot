@@ -34,12 +34,9 @@
    - [Violentmonkey](https://violentmonkey.github.io/)
    - [Greasemonkey](https://www.greasespot.net/)（仅Firefox）
 
-2. 点击安装链接：[MonkeyType AutoTyper Bot.user.js](#)
-
-### 方法二：手动安装
-1. 复制 [脚本代码](monkeytype-autotyper-bot.js)
-2. 打开用户脚本管理器 → 添加新脚本
-3. 粘贴代码并保存
+2. 复制 [脚本代码](monkeytype-autotyper-bot.js)
+3. 打开用户脚本管理器 → 添加新脚本
+4. 粘贴代码并保存
 
 ## 🚀 使用方法
 
