@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         MonkeyType AutoTyper Bot (2025new）
-// @namespace    https://greasyfork.org/users/1000020
+// @namespace    https://greasyfork.org/users/1546585
 // @version      2.2
 // @description  A Bot that automatically types for you in MonkeyType (Fixed Version)
-// @author       longkidkoolstar (Fixed by AI Assistant)
+// @author       Liksss
 // @match        *://monkeytype.com/*
 // @icon         https://th.bing.com/th/id/R.c8397fb766c4397fea8a8b499c15a453?rik=aROX42RoH7HhXw&pid=ImgRaw&r=0
 // @run-at       document-idle
